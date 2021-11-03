@@ -1,0 +1,3 @@
+module constructor {
+	exports constructor;
+}
